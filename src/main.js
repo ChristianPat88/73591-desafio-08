@@ -51,7 +51,7 @@ if (velocidadCoche > velocidadLimite) {
 /* EJERCICIO 4 --------------------------------------------------- */
 console.warn('Ejercicio 4')
 
-let sueldo = 1000000
+let sueldo = 100000
 
 if (sueldo <= 40000) {
     console.log('El sueldo es bajo')
